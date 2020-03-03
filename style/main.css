@@ -2935,6 +2935,11 @@ span .up {
   height: 78px;
   overflow: hidden;
 }
+#multi-item-example7 {
+    max-width: 300px;
+    margin: 0 auto;
+}
+
 } /*END TAG 1200px*/
 
 /*!!!!!!!!!!!!!!!!!!!!! Ipad IPAD !!!!!!!!!!!!!*/
