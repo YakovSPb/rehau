@@ -12,6 +12,7 @@ mobileButton.addEventListener('click', function(){
 	mobileMenu.classList.toggle('header-menu')
 })
 
+if($(window).width() > 1200) {
 // Fixed menu
   jQuery(function($) {
 	        $(window).scroll(function(){
@@ -23,6 +24,10 @@ mobileButton.addEventListener('click', function(){
 	            }
 	        });
 	    });
+
+} 
+
+
 
 
 
